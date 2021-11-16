@@ -5,13 +5,13 @@
 <br/>
 
 
-I am a Devops Engineer currently working at `Solinftec`. I am a graduate from LDS Business College with a degree in Network Engineering and Cyber Security. Currently studying system analysis and development focusing with a focus on Devops.
+I am a Devops Engineer currently working at `Solinftec`. I am a graduate student from LDS Business College with a degree in Network Engineering and Cyber Security. Currently studying system analysis and development with a focus on Devops.
 <br/>
 <br/>
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on my Devops career;
+- 🔭 &nbsp; I’m currently working integrating security to Devops;
 - 🌱 &nbsp; I’m currently learning Python; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/victor-vargas-a99553104/).
