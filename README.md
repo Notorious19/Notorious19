@@ -5,7 +5,7 @@
 <br/>
 
 
-I am a Devops Engineer currently working at [Solinftec]. I am a graduate from LDS Business College with a degree in Network Engineering and Cyber Security. Currently studying system analysis and development focusing with a focus on Devops.
+I am a Devops Engineer currently working at `Solinftec`. I am a graduate from LDS Business College with a degree in Network Engineering and Cyber Security. Currently studying system analysis and development focusing with a focus on Devops.
 <br/>
 <br/>
   
