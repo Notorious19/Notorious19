@@ -25,7 +25,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a DevOps Engineer from from Brasil.
+I am a DevOps Engineer from Brasil.
 
 - :telescope: I am a DevOps Engineer working for a Startup Company where I help a team of 4 developers work faster and smarter.
 
