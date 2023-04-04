@@ -30,7 +30,7 @@ DevOps Engineer living in Brasil.
 
 - :seedling: “Live as if you were to die tomorrow. Learn as if you were to live forever.” – Mahatma Gandhi
 
-- :zap: Currently working on my CKA certification and trying to climb the ladder in League.
+- :zap: Currently working on getting the CKA certification and trying to climb the ladder in League in my spare time.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-vargas-a99553104/)
 
