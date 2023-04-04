@@ -25,13 +25,13 @@
 </div>
 
 ### :man_technologist: About Me :
-DevOps Engineer living in Brasil. 🇧🇷
+DevOps Engineer living in Brasil.
 
-- :telescope: I am a DevOps Engineer working for a Startup Company where I help a team of 4 developers work faster and smarter.
+- :telescope: Working as a DevOps engineer for the past 2 years, currently at Amdocs Brazil.
 
-- :seedling: Learning DevOps constantly.
+- :seedling: “The more that you read, the more things you will know. The more that you learn, the more places you’ll go.” – Dr. Seuss
 
-- :zap: In my free time, I like to watch a good UFC fight and read tech articles.
+- :zap: Currently working on my CKA certification and trying to climb the ladder in League.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-vargas-a99553104/)
 
