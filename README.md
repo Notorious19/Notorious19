@@ -28,7 +28,7 @@ DevOps Engineer living in Brasil.
 
 - :telescope: Working as a DevOps engineer for the past 2 years, currently at Amdocs Brazil.
 
-- :seedling: “The more that you read, the more things you will know. The more that you learn, the more places you’ll go.” – Dr. Seuss
+- :seedling: “Live as if you were to die tomorrow. Learn as if you were to live forever.” – Mahatma Gandhi
 
 - :zap: Currently working on my CKA certification and trying to climb the ladder in League.
 
