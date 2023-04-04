@@ -52,6 +52,6 @@ DevOps Engineer living in Brasil.
 
 ---
 
-### :fire: My Stats :
+<!-- ### :fire: My Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Notorious19)
-
+-->
