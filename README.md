@@ -1,6 +1,6 @@
 <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="300"/>
   
 <div id="badges">
   <a href="https://www.linkedin.com/in/victor-vargas-a99553104/">
@@ -20,7 +20,6 @@
 ![](https://komarev.com/ghpvc/?username=Notorious19&color=green)
    
 ---
-  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="300"/>
 
 </div>
 
